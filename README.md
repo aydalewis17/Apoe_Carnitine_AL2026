@@ -12,6 +12,8 @@ Crash Course workshop and KKAmundson's MetaG Processing LOOPS (April 2026).
 
 ## Overview
 
+![MetaG pipeline overview](metaG_pipeline_overview.png)
+
 The pipeline runs in three phases:
 
 **Phase 1 — Per-sample assembly and binning (steps 00-08)**
