@@ -478,7 +478,6 @@ Pass it to dRep in 09_cross_drep.sh with `--genomeInfo genome_info.csv`.
   KKA uses --verysensitive; default chosen for internal consistency across all sources.
 - **GTDB-Tk**: Run per-sample in 07_gtdbtk.sh. Co-assembly and iterative MAGs receive
   taxonomy through the post-dRep GTDB-Tk run in 09.1_cross_drep_gtdbtk.sh.
-- **E. limosum taxonomy**: Falls under g__Eubacterium_E in GTDB (not g__Eubacterium_F).
 - **Separate dereplication**: ApoE_Carnitine and Manure Lagoons must be dereplicated
   separately — they are biologically independent environments. Use apoe_sample_list.txt
   for ApoE-specific cross-sample steps.
